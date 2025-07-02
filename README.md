@@ -1,2 +1,0 @@
-# simplificamais
-whoami
